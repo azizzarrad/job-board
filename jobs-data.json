@@ -1,0 +1,29 @@
+{
+    "featuredJobs": [
+      {
+        "id": 1,
+        "title": "Senior Frontend Developer",
+        "company": "ABC Tech Solutions",
+        "location": "San Francisco, CA",
+        "description": "We are looking for an experienced Senior Frontend Developer to join our dynamic team...",
+        "applyLink": "https://example.com/apply/1"
+      },
+      {
+        "id": 2,
+        "title": "Full Stack Developer",
+        "company": "TechCo Innovations",
+        "location": "New York, NY",
+        "description": "TechCo Innovations is seeking a talented Full Stack Developer to work on exciting projects...",
+        "applyLink": "https://example.com/apply/2"
+      },
+      {
+        "id": 3,
+        "title": "Backend Engineer",
+        "company": "XYZ Software",
+        "location": "Seattle, WA",
+        "description": "Join our Backend Engineering team and contribute to the development of cutting-edge software...",
+        "applyLink": "https://example.com/apply/3"
+      }
+    ]
+  }
+  
